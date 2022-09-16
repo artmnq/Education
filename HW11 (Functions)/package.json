@@ -1,0 +1,30 @@
+{
+  "name": "fe-pro-basic-checks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rammfall-edu/fe-pro-basic-checks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rammfall-edu/fe-pro-basic-checks/issues"
+  },
+  "homepage": "https://github.com/rammfall-edu/fe-pro-basic-checks#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.17.9",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1",
+    "prettier": "^2.6.2"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "printWidth": 80
+  }
+}
